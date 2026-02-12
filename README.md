@@ -151,7 +151,7 @@ The application is deployed using <b>Render Cloud Platform</b>.
 <p><i><img src="Screenshots/prediction.png" width="800"></i></p>
 
 <h3>🔹 Performance Metrics</h3>
-<p><i>https://github.com/vamshi3686/IRIS-Prediction/blob/main/Screenshots/%7BE07E411B-12C1-4DEA-98DF-D9E0B3EFAB2C%7D.png</i></p>
+<p><i><img src="Screenshots/performance metrics.png" width="800"></i></p>
 
 <hr>
 
