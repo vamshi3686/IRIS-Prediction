@@ -151,7 +151,7 @@ The application is deployed using <b>Render Cloud Platform</b>.
 <p><i><img src="Screenshots/prediction.png" width="800"></i></p>
 
 <h3>🔹 Performance Metrics</h3>
-<p><i><img src="Screenshots/performance metrics.png" width="800"></i></p>
+<p><i><img src="performance metrics.png" width="800"></i></p>
 
 <hr>
 
